@@ -1,2 +1,4 @@
 # Script_test
-A test to store scripts i write for raspberry pi!
+Start new transmition:
+simple test edit of this file.
+End transmition:
